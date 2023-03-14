@@ -77,7 +77,5 @@ os_profile {
   admin_password                  =  "Azhar@1234"
 
 }
-  os_profile_windows_config {
-      
-    }
+
 }
