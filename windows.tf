@@ -1,5 +1,5 @@
 module "windows_virualmachine_001" {
- source                 = "users.tfe-prod.aws-cloud.axa-de.intraxa/AGO-SharedModules/vm/azure"
+#source                 = "users.tfe-prod.aws-cloud.axa-de.intraxa/AGO-SharedModules/vm/azure"
  # ENVIRONMENT
  object_index           = "001"
  short_app_name         = var.short_app_name
