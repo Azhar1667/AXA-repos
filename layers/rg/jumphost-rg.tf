@@ -6,7 +6,7 @@ module "jumphost-rg" {
 }
 module "jumphost-rg1" {
   source = "../../modules"
-  index = "002"
+  index = "003"
   rgname = "jumphost-rg"
   location = "centralindia"
 }
