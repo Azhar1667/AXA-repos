@@ -1,5 +1,5 @@
 module "jumphost-rg" {
-  source = "../modules"
+  source = "../../modules"
   index = "001"
   rgname = "jumphost-rg"
   location = "centralindia"
