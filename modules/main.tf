@@ -1,5 +1,5 @@
 resource "azurerm_resource_group" "rg" {
   name     = "${var.rgname}-${var.index}"
-  location = "central india"
-  
+  location = " east india"
+ 
 }
