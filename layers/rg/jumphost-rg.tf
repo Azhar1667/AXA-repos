@@ -10,5 +10,6 @@ module "jumphost-rg1" {
   rgname = "jumphost-rg"
   location = "centralindia"
 }
+ 
 
 
